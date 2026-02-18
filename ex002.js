@@ -1,4 +1,4 @@
-Calcule o dobro e o triplo de um número digitado.
+//Calcule o dobro e o triplo de um número digitado.
 
 let numero = 10;
 let dobro = numero * 2;

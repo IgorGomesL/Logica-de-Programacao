@@ -1,4 +1,4 @@
-Receba dois números e mostre a soma.
+//Receba dois números e mostre a soma.
 
 let numero1 = 10
 let numero2 = 20
