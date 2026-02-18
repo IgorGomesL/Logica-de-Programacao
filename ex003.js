@@ -2,4 +2,4 @@
 
 let metros = 15
 let centimetros = metros * 100
-console.log(`O valor de ${metros} metros em centimetros é de ${centimetros}cms`)
+console.log(`O valor de ${metros} metros em centímetros é ${centimetros} cm`)
